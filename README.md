@@ -1,6 +1,4 @@
-# Bengali Vocal Spectrum (BVS): A Bengali Voice Dataset for Psychological Stability Analysis
-
-## 📊 Project Overview
+# 📊 Project Overview
 
 This project provides a detailed implementation of **feature extraction** from audio recordings for psychological stability analysis using the **Bengali Vocal Spectrum (BVS)** dataset. The focus is on creating **spectrograms** from `.wav` audio files to extract frequency and temporal features critical for machine learning models.
 
