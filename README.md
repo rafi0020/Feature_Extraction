@@ -56,12 +56,13 @@ Open the Spectrograms_Creation_Code.ipynb file in Jupyter or Colab to:
 
 ---
 
-## 📊 Results
 ### Audio Statistics:
 - Stable: 3,575 spectrogram samples
 - Unstable: 4,726 spectrogram samples
   
 ### Sample Visualizations:
+
+![image](https://github.com/user-attachments/assets/91651d0a-9da7-4c90-b90a-2a72bfa270ba)
 
 
 ---
